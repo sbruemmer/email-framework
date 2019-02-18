@@ -1,4 +1,5 @@
 .DS_Store
+build
+panel/index.html
 node_modules
-kontist-basic-template.html
 config.json
