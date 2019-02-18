@@ -73,16 +73,7 @@ Now edit the template in
 ```
 src/templates/basic-template.html
 ```
-or create your own from scratch. As long as the gulp task is running it will automaticly build the template on every save and reload the browser. If you create a new template make sure to include it in the panel sidebar. 
-```
-<div class="template-list">
-  <ul>
-    <li><a href="/build/basic-template.html">Basic Template</a></li>
-    <li><a href="/build/your-new-template">Your newly added Template</a></li>
-  </ul>
-</div>
-```
-in `panel/index.html`.
+or create your own from scratch. As long as the gulp task is running it will automaticly build the template on every save and reload the browser.
 
 Pull request and feedback welcome, as this is a very first version.
 Thanks a lot [Filip](https://github.com/peritus) for helping my with lots of the JS part.
