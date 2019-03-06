@@ -3,3 +3,7 @@ build
 panel/index.html
 node_modules
 config.json
+
+# ignore custom templates, but not basic template
+src/templates/*
+!src/templates/basic-template*
