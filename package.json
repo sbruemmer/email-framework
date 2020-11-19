@@ -4,7 +4,10 @@
   "description": "A simple framework for working with responsive email",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "gulp": "gulp",
+    "watch": "gulp watch",
+    "send": "gulp send"
   },
   "repository": {
     "type": "git",
